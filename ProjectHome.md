@@ -1,0 +1,1 @@
+Raffl is an affiliate marketing application based on Ruby on Rails.
